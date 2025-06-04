@@ -1,4 +1,4 @@
-# Maze Solver in Python 🧩
+#  Maze Solver in Python 🧩
 This repository contains a Python-based maze-solving algorithm that implements a Depth-First Search (DFS) approach and visualizes the solution using matplotlib.
 
 # 🛠️ Features:
